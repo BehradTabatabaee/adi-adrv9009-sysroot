@@ -17,4 +17,6 @@ The sysroot includes:
 
 ## 🧭 Usage
 
-Just clone the repository and unzip.
+Clone the repository and run the sysroot generation script.
+you can also find a pre-built zip file with all of the required binaries 
+for adrv9009 development in the release section.
