@@ -2,6 +2,7 @@
 
 This repository contains a prebuilt **sysroot** for Analog Devices' **ADRV9009** RF transceiver platform.  
 It is intended for cross-compiling user-space applications targeting embedded Linux systems running on platforms such as the **Zynq UltraScale+ MPSoC** or **Zynq UltraScale+ RFSoC** (e.g., ZCU102/ZCU111 with ADRV9009).
+Tested on adi-ADRV9009 running on XCZU15EG-2FFVB1156I 
 
 ---
 
@@ -17,5 +18,6 @@ The sysroot includes:
 
 ## 🧭 Usage
 
-just use the pre-built zip file with all of the required binaries 
+Use the pre-built zip file with all of the required binaries 
 for adrv9009 development in the release section.
+Download the file, and use it as the sysroot path for your cross-compilation script.
